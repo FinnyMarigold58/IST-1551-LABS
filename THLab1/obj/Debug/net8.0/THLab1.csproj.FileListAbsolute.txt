@@ -1,0 +1,14 @@
+S:\Desktop\Classes\IST-FS25-1551\THLab1\bin\Debug\net8.0\THLab1.exe
+S:\Desktop\Classes\IST-FS25-1551\THLab1\bin\Debug\net8.0\THLab1.deps.json
+S:\Desktop\Classes\IST-FS25-1551\THLab1\bin\Debug\net8.0\THLab1.runtimeconfig.json
+S:\Desktop\Classes\IST-FS25-1551\THLab1\bin\Debug\net8.0\THLab1.dll
+S:\Desktop\Classes\IST-FS25-1551\THLab1\bin\Debug\net8.0\THLab1.pdb
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.GeneratedMSBuildEditorConfig.editorconfig
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.AssemblyInfoInputs.cache
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.AssemblyInfo.cs
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.csproj.CoreCompileInputs.cache
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.dll
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\refint\THLab1.dll
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.pdb
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\THLab1.genruntimeconfig.cache
+S:\Desktop\Classes\IST-FS25-1551\THLab1\obj\Debug\net8.0\ref\THLab1.dll

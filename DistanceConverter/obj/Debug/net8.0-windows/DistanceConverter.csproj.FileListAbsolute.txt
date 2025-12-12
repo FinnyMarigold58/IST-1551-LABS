@@ -1,0 +1,16 @@
+I:\Labs\DistanceConverter\bin\Debug\net8.0-windows\DistanceConverter.exe
+I:\Labs\DistanceConverter\bin\Debug\net8.0-windows\DistanceConverter.deps.json
+I:\Labs\DistanceConverter\bin\Debug\net8.0-windows\DistanceConverter.runtimeconfig.json
+I:\Labs\DistanceConverter\bin\Debug\net8.0-windows\DistanceConverter.dll
+I:\Labs\DistanceConverter\bin\Debug\net8.0-windows\DistanceConverter.pdb
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.Form1.resources
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.csproj.GenerateResource.cache
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.AssemblyInfoInputs.cache
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.AssemblyInfo.cs
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.csproj.CoreCompileInputs.cache
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.dll
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\refint\DistanceConverter.dll
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.pdb
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\DistanceConverter.genruntimeconfig.cache
+I:\Labs\DistanceConverter\obj\Debug\net8.0-windows\ref\DistanceConverter.dll

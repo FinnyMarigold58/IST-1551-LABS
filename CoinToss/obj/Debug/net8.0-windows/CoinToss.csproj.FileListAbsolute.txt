@@ -1,0 +1,17 @@
+I:\Labs\CoinToss\bin\Debug\net8.0-windows\CoinToss.exe
+I:\Labs\CoinToss\bin\Debug\net8.0-windows\CoinToss.deps.json
+I:\Labs\CoinToss\bin\Debug\net8.0-windows\CoinToss.runtimeconfig.json
+I:\Labs\CoinToss\bin\Debug\net8.0-windows\CoinToss.dll
+I:\Labs\CoinToss\bin\Debug\net8.0-windows\CoinToss.pdb
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.Form1.resources
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.Properties.Resources.resources
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.csproj.GenerateResource.cache
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.GeneratedMSBuildEditorConfig.editorconfig
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.AssemblyInfoInputs.cache
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.AssemblyInfo.cs
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.csproj.CoreCompileInputs.cache
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.dll
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\refint\CoinToss.dll
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.pdb
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\CoinToss.genruntimeconfig.cache
+I:\Labs\CoinToss\obj\Debug\net8.0-windows\ref\CoinToss.dll

@@ -1,0 +1,14 @@
+I:\Labs\THLab3\bin\Debug\net8.0\THLab3.exe
+I:\Labs\THLab3\bin\Debug\net8.0\THLab3.deps.json
+I:\Labs\THLab3\bin\Debug\net8.0\THLab3.runtimeconfig.json
+I:\Labs\THLab3\bin\Debug\net8.0\THLab3.dll
+I:\Labs\THLab3\bin\Debug\net8.0\THLab3.pdb
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.GeneratedMSBuildEditorConfig.editorconfig
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.AssemblyInfoInputs.cache
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.AssemblyInfo.cs
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.csproj.CoreCompileInputs.cache
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.dll
+I:\Labs\THLab3\obj\Debug\net8.0\refint\THLab3.dll
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.pdb
+I:\Labs\THLab3\obj\Debug\net8.0\THLab3.genruntimeconfig.cache
+I:\Labs\THLab3\obj\Debug\net8.0\ref\THLab3.dll

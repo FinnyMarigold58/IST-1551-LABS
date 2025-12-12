@@ -1,0 +1,16 @@
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\bin\Debug\net8.0-windows\THLab2GUITranslator.exe
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\bin\Debug\net8.0-windows\THLab2GUITranslator.deps.json
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\bin\Debug\net8.0-windows\THLab2GUITranslator.runtimeconfig.json
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\bin\Debug\net8.0-windows\THLab2GUITranslator.dll
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\bin\Debug\net8.0-windows\THLab2GUITranslator.pdb
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.Form1.resources
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.csproj.GenerateResource.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.GeneratedMSBuildEditorConfig.editorconfig
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.AssemblyInfoInputs.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.AssemblyInfo.cs
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.csproj.CoreCompileInputs.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.dll
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\refint\THLab2GUITranslator.dll
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.pdb
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\THLab2GUITranslator.genruntimeconfig.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\THLab2GUITranslator\obj\Debug\net8.0-windows\ref\THLab2GUITranslator.dll

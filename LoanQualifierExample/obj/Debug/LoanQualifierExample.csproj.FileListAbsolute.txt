@@ -1,0 +1,10 @@
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.csproj.AssemblyReference.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.Form1.resources
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.Properties.Resources.resources
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.csproj.GenerateResource.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.csproj.CoreCompileInputs.cache
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\bin\Debug\LoanQualifierExample.exe.config
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\bin\Debug\LoanQualifierExample.exe
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\bin\Debug\LoanQualifierExample.pdb
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.exe
+\\minerfiles.mst.edu\dfs\users\thz7q\Desktop\Classes\IST-FS25-1551\Labs\LoanQualifierExample\obj\Debug\LoanQualifierExample.pdb

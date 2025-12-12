@@ -1,0 +1,16 @@
+I:\Labs\TipTaxTotal\bin\Debug\net8.0-windows\TipTaxTotal.exe
+I:\Labs\TipTaxTotal\bin\Debug\net8.0-windows\TipTaxTotal.deps.json
+I:\Labs\TipTaxTotal\bin\Debug\net8.0-windows\TipTaxTotal.runtimeconfig.json
+I:\Labs\TipTaxTotal\bin\Debug\net8.0-windows\TipTaxTotal.dll
+I:\Labs\TipTaxTotal\bin\Debug\net8.0-windows\TipTaxTotal.pdb
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.Form1.resources
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.csproj.GenerateResource.cache
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.GeneratedMSBuildEditorConfig.editorconfig
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.AssemblyInfoInputs.cache
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.AssemblyInfo.cs
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.csproj.CoreCompileInputs.cache
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.dll
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\refint\TipTaxTotal.dll
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.pdb
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\TipTaxTotal.genruntimeconfig.cache
+I:\Labs\TipTaxTotal\obj\Debug\net8.0-windows\ref\TipTaxTotal.dll

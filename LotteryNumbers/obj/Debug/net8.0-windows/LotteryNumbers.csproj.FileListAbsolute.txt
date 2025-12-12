@@ -1,0 +1,16 @@
+I:\Labs\LotteryNumbers\bin\Debug\net8.0-windows\LotteryNumbers.exe
+I:\Labs\LotteryNumbers\bin\Debug\net8.0-windows\LotteryNumbers.deps.json
+I:\Labs\LotteryNumbers\bin\Debug\net8.0-windows\LotteryNumbers.runtimeconfig.json
+I:\Labs\LotteryNumbers\bin\Debug\net8.0-windows\LotteryNumbers.dll
+I:\Labs\LotteryNumbers\bin\Debug\net8.0-windows\LotteryNumbers.pdb
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.Form1.resources
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.csproj.GenerateResource.cache
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.AssemblyInfoInputs.cache
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.AssemblyInfo.cs
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.csproj.CoreCompileInputs.cache
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.dll
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\refint\LotteryNumbers.dll
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.pdb
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\LotteryNumbers.genruntimeconfig.cache
+I:\Labs\LotteryNumbers\obj\Debug\net8.0-windows\ref\LotteryNumbers.dll
